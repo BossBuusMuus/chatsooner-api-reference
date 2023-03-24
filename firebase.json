@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "build",
+    "site":"chatinc-api",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
